@@ -23,3 +23,4 @@ We have a solid offer and a defined ICP, but we are currently at **$0 MRR** with
 
 
 - [2025-12-31T21:04:02.816Z] **ops/crm_master.csv**: AutoBiz: Update ops/crm_master.csv
+- [2025-12-31T21:04:06.998Z] **ops/outreach_v1_beta.md**: AutoBiz: Update ops/outreach_v1_beta.md
