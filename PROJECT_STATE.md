@@ -13,6 +13,7 @@
 **Tasks**
 - [x] Initialize repository structure
 - [x] Draft "The Offer" document
-- [ ] Configure CRM
+- [x] Define CRM Structure
+- [/] Configure CRM (In Progress - Spreadsheet Setup)
 - [ ] Scrape 100 HVAC business owners in the US
 - [ ] Launch first cold email campaign
