@@ -14,6 +14,6 @@
 - [x] Initialize repository structure
 - [x] Draft "The Offer" document
 - [x] Define CRM Structure
-- [/] Configure CRM (In Progress - Spreadsheet Setup)
-- [ ] Scrape 100 HVAC business owners in the US
+- [x] Configure CRM (Created ops/crm_master.csv)
+- [/] Scrape 100 HVAC business owners in the US (IN PROGRESS)
 - [ ] Launch first cold email campaign
