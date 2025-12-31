@@ -1,20 +1,16 @@
-# The Offer: HVAC Growth Engine
+# THE OFFER: The "No-Brainer" HVAC Growth Engine
 
-## The Problem
-HVAC business owners are great at technical work but struggle with consistent lead generation and follow-up, leading to "feast or famine" cycles.
+**Target:** HVAC Business Owners doing $500k - $2M in annual revenue.
 
-## The Solution
-A "Pay-per-Appointment" lead generation system combined with an automated CRM follow-up sequence.
+**The Hook:** We add $50k in booked service calls to your calendar in 90 days, or you don't pay.
 
-## Core Deliverables
-1. **Lead Generation:** Meta Ads targeting homeowners in specific zip codes.
-2. **Lead Nurture:** Automated SMS/Email follow-up within 5 minutes of inquiry.
-3. **Appointment Setting:** We book the estimate directly on their calendar.
+**The Mechanism:**
+1. **Lead Magnet:** "Free 21-Point AC Safety Inspection" (High conversion).
+2. **Traffic:** Hyper-local Facebook & Google LSA ads.
+3. **Conversion:** 24/7 AI-powered SMS follow-up (The "Speed to Lead" engine).
+4. **Retention:** Automated review generation to boost local SEO.
 
-## Pricing Model
-- **Setup Fee:** $1,500 (One-time)
-- **Performance Fee:** $50 per qualified appointment booked.
-- **Ad Spend:** Paid directly by the client (min $1,000/mo).
-
-## Guarantee
-If we don't book at least 10 qualified appointments in the first 30 days, the setup fee is 100% refunded.
+**Pricing:**
+- $2,500 Setup Fee (Waived for first 3 "Beta" clients).
+- $1,500/mo Management Fee.
+- $1,000/mo Minimum Ad Spend (Paid to platform).
